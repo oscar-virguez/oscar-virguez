@@ -65,5 +65,5 @@ InfluxDB, DuckDB, BigQuery, LangChain, scikit-learn, Keras, Jetpack Compose
 
 ## Background
 
-B.Sc. in Electronic Engineering and graduate studies in Data Science, Escuela
-Colombiana de Ingeniería Julio Garavito.
+Electronic Engineering and M.Sc. in Data Science (in progress), Escuela Colombiana
+de Ingeniería Julio Garavito.
